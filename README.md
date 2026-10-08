@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Ved Sarkar — AI/ML Systems and Healthcare Research" width="100%" />
+  <img src="assets/header.svg" alt="Ved Sarkar — AI Systems, Useful Software, and Healthcare Research" width="100%" />
 </p>
 
 I’m Ved, a **UC Berkeley Data Science graduate (B.A., Fall 2025)** working across AI/ML engineering, full-stack software, and healthcare research. I’m drawn to hard problems where careful engineering can make a meaningful difference.
@@ -8,9 +8,9 @@ At **TCG Digital**, I build AI agents with **MCP and LangGraph**, connecting mod
 
 Across work and personal projects, I use **React and Next.js, Node.js and NestJS, Python, and SQL**. My research spans medical-image analysis, clinical NLP, and prediction in neurosurgical care.
 
-[Featured project](#featured-project) · [Selected research](#selected-research) · [Beyond tech](#beyond-tech) · [Google Scholar](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en)
+[Projects](#projects) · [Selected Research](#selected-research) · [Beyond Tech](#beyond-tech) · [Google Scholar](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en)
 
-## Featured project
+## Projects
 
 ### [Meeting Loop](https://github.com/ved-sarkar/meeting-loop)
 
@@ -26,7 +26,13 @@ Meeting Loop is a personal prototype; live-call endurance and fresh-machine setu
 
 [Explore the code](https://github.com/ved-sarkar/meeting-loop) · [Architecture](https://github.com/ved-sarkar/meeting-loop/blob/main/docs/ARCHITECTURE.md) · [Example walkthrough](https://github.com/ved-sarkar/meeting-loop/blob/main/docs/DEMO.md) · [Feature status](https://github.com/ved-sarkar/meeting-loop/blob/main/STATUS.md)
 
-## Selected research
+### More Projects
+
+- [**Auto-Podcast**](https://github.com/ved-sarkar/auto-podcast): a React workspace for reviewing source-aligned transcript cuts, with deletion-only validation and an offline demo.
+- [**Storage Tracker**](https://github.com/ved-sarkar/storage-tracker): a SwiftUI macOS inventory app with item validation and atomic local JSON storage.
+- [**Stethalyser**](https://github.com/ved-sarkar/stethalyser): exploratory Arduino and Python experiments in audio acquisition, waveform visualization, filtering, and recording.
+
+## Selected Research
 
 I’ve coauthored work on medical imaging, clinical text, and prediction in neurosurgical care.
 
@@ -41,6 +47,6 @@ I’ve coauthored work on medical imaging, clinical text, and prediction in neur
 
 [**All papers on Google Scholar →**](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en)
 
-## Beyond tech
+## Beyond Tech
 
 Outside tech, I’m into music, squash, skiing and blacksmithing, and I’m a big Manchester United fan. I’m passionate about flying, sailing, RVing, and exploring wherever I can, however I can.
