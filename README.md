@@ -8,7 +8,7 @@ At **TCG Digital**, I design interoperable AI agents with **A2A, MCP and LangGra
 
 As a **founding engineer at EnvoyX**, I built the foundations of a multi-tenant fintech platform, connecting document intake and extraction with structured financial records, claims dashboards, and auditable workflows. My work spanned the product’s interfaces, backend services, authentication, and data models.
 
-At **NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
+As an **NHS researcher at NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
 
 I work across the full path from an idea to a working system: designing data flows, testing ML models, coordinating agents, and building the interfaces and backend services that bring them together.
 
