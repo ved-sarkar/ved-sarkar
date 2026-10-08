@@ -53,7 +53,7 @@ I’ve coauthored work on medical imaging, clinical text, and diagnostic predict
 
 ## Within Tech
 
-At **TCG Digital**, I designed interoperable AI agents with **A2A, MCP and LangGraph**, spanning agents for coordination for internal tools and consumer features for **United Airlines** to design-of-experiments workflows for multiple research labs across different fields as my clients. My work covers agent discovery/task contracts, statistical-tool integration, and prototypes of continualish learning that carry experiment results into subsequent runs.
+At **TCG Digital**, I designed interoperable AI agents with **A2A, MCP and LangGraph**, spanning agents for coordination for internal tools and consumer features for **United Airlines** to design-of-experiments agentic workflows for multiple research labs across different fields as my clients. My work covers agent discovery/task contracts, statistical-tool integration, and prototypes of continualish learning that carry experiment results into subsequent runs.
 
 As an **ML researcher at NHS NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
 
