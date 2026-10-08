@@ -57,4 +57,4 @@ I’ve coauthored work on medical imaging, clinical text, and prediction in neur
 
 ## Beyond Tech
 
-Outside tech, I’m into music, squash, skiing and blacksmithing, and I’m a big Manchester United fan. I’m passionate about flying, sailing, RVing, and exploring wherever I can, however I can.
+Outside tech, I play guitar and enjoy squash, skiing and blacksmithing. I’m a big Manchester United and Ferrari F1 fan, with a passion for flying, sailing and RVing. Growing up across countries and cultures has left me curious about people and places—I love exploring somewhere new and trading ideas, perspectives and possibilities with the people I meet.
