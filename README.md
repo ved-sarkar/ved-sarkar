@@ -4,11 +4,11 @@
 
 I’m Ved, a **UC Berkeley Data Science graduate (B.A., Fall 2025)** working across AI/ML engineering, full-stack software, and healthcare research. I’m drawn to hard, underexplored problems where careful engineering can make a meaningful difference. Many of my project ideas start with friction I run into as a frequent user of AI tools.
 
-At **TCG Digital**, I build AI agents with **MCP and LangGraph**, connecting models to tools and organizing multi-step workflows.
+At **TCG Digital**, I work on agent interoperability: helping agents discover one another, exchange tasks, and use specialized tools across frameworks. I’ve designed A2A Agent Cards and discovery/task contracts for a LangGraph travel-planning agent, and integrated an ADK/MCP design-of-experiments copilot. That includes validating generated designs and export approvals, fixing interactive rendering, and prototyping ways to use previous results in later experimental rounds. My work spans protocol design, statistical tooling, and workflow design, with local integration testing and preparation for cloud rollout.
 
-Previously, I was a **founding engineer at EnvoyX**, working across full-stack product development.
+As a **founding software engineer at EnvoyX**, I built a multi-tenant fintech platform with React/Next.js interfaces, NestJS APIs, and a PostgreSQL data layer using Prisma. I brought claims, financial metrics, and audit trails into real-time dashboards, and built a document-extraction pipeline using Document AI and OpenAI, backed by Python Cloud Functions. I also worked on JWT authentication, KYC, database migrations, audit logging, and Docker/Vercel CI/CD.
 
-My **NHS research** began alongside my studies and continues with collaborators at **Salford Royal and the Northern Care Alliance**. I work on machine learning for medical-image analysis, clinical NLP, and neurosurgical decision-support research, with selected coauthored papers below.
+Through my ongoing **NCA research**, I work on medical-image analysis, clinical NLP, and neurosurgical decision support. My projects include external-validation research on **NYU Langone’s NYUTron** in a different healthcare setting. I’ve also participated in evaluating **OpenAI vision models** for cauda equina compression, with technical support from OpenAI’s solutions team. Our wider group’s collaborations include Ehlers-Danlos syndrome questionnaire research with **Mount Sinai**. Working with clinicians, I help assess how machine-learning models and generative AI can address clinical questions, with attention to evaluation and practical limitations.
 
 Across work and personal projects, I use **React and Next.js, Node.js and NestJS, Python, and SQL**.
 
