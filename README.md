@@ -14,7 +14,7 @@ As a **founding engineer at EnvoyX**, I built the foundations of a multi-tenant 
 
 I work across the full path from an idea to a working system: designing data flows, testing ML models, coordinating agents, and building the interfaces and backend services that bring them together.
 
-[Projects](#projects) · [Selected Research](#selected-research) · [Beyond Tech](#beyond-tech) · [Google Scholar](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en)
+[Projects](#projects) · [Selected Research](#selected-research)  · [Google Scholar](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en) · [Beyond Tech](#beyond-tech)
 
 ## Projects
 
@@ -44,7 +44,7 @@ Meeting Loop is a personal prototype; live-call endurance and fresh-machine setu
 
 ## Selected Research
 
-I’ve coauthored work on medical imaging, clinical text, and prediction in neurosurgical care.
+I’ve coauthored work on medical imaging, clinical text, and diagnostic prediction models in neurosurgical care.
 
 - [Development of a Machine-Learning Algorithm to Identify Cauda Equina Compression on Magnetic Resonance Imaging Scans](https://pubmed.ncbi.nlm.nih.gov/39826832/)  
   *World Neurosurgery · 2025*
@@ -59,4 +59,4 @@ I’ve coauthored work on medical imaging, clinical text, and prediction in neur
 
 ## Beyond Tech
 
-Outside tech, I’m a self-declared guitarist who enjoys squash, skiing and blacksmithing. I’m a big Manchester United and Ferrari F1 fan, with a passion for flying, sailing and RVing. Growing up across countries and cultures has made me curious about people and places. I love meeting new people, trading ideas and perspectives, and picking up new hobbies and skills along the way.
+Outside tech, I was in a band in a different life once and still enjoy jamming with a guitar, playing squash, skiing and blacksmithing. I’m a big Manchester United, Naija Super Eagles and Ferrari F1 fan, with a passion for flying, sailing and RVing. Growing up across countries and cultures has made me curious about people and places. I love meeting new people, trading ideas and perspectives, and picking up new hobbies and skills along the way. Reach out, I am always down for new chats, new friends and definitely new adventures!!
