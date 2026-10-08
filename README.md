@@ -35,12 +35,12 @@ Meeting Loop is a personal prototype; live-call endurance and fresh-machine setu
 ### More Projects
 
 - [**Auto-Podcast**](https://github.com/ved-sarkar/Auto-Podcast): a React workspace for reviewing interview-transcript edits. Shows the source, proposed cut, and removed passages, with deletion-only validation and a fictional offline demo. Exports edited text.
-- [**Storage Tracker**](https://github.com/ved-sarkar/Storage-Tracker): a SwiftUI macOS app for tracking stored belongings, locations, estimated value, and last use. Includes item editing, validation, and atomic local JSON persistence.
+- [**StowSight**](https://github.com/ved-sarkar/Storage-Tracker): a SwiftUI macOS prototype for video-assisted inventory. Review and correct suggested items, approve local saves, and reconcile rescans without losing unseen belongings. The offline demo uses synthetic clips and mock recognition.
 - [**MLTool**](https://github.com/ved-sarkar/MLTool): a Tkinter research prototype that guides Excel data through preprocessing, feature selection, classifier comparison, and local export. Built around scikit-learn and XGBoost, with cross-validation scores and confusion-matrix views.
 - [**DECHOR**](https://github.com/ved-sarkar/DECHOR): a Shiny for Python interface around a saved decision-tree model for chronic subdural haematoma referral-outcome research. Explores form inputs, preprocessing, and prediction displays; it is not a validated clinical tool.
 - [**Stethalyser**](https://github.com/ved-sarkar/Stethalyser): Arduino and Python experiments in audio acquisition, waveform visualization, filtering, and recording. An exploratory hardware/audio prototype, with sender and receiver protocols still needing integration.
 - [**Faker Text Lab**](https://github.com/ved-sarkar/Faker-Text-Lab): Python experiments with tagged-text substitution, generated names and phone numbers, spreadsheet processing, and regex/local-model redaction. Includes a fictional input example; the current experiments do not establish reliable anonymization.
-- [**TrackBite**](https://github.com/ved-sarkar/TrackBite): a documented concept for combining food-weight input, ingredient photos, and a reviewed meal log. Explores the proposed interaction and data boundaries; camera recognition, nutrition estimation, and logging are not implemented.
+- [**TrackBite**](https://github.com/ved-sarkar/TrackBite): a prototype for trackpad weighing and camera-assisted food logging, with an offline simulated portion-review demo and a native Mac app for manual meal logs and nutrition calculations. Live weighing and camera recognition remain planned.
 
 ## Selected Research
 
