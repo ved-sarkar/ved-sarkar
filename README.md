@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Ved Sarkar — AI Systems, Useful Software, and Healthcare Research" width="100%" />
+  <img src="assets/header-v2.svg" alt="Ved Sarkar — AI Systems, Useful Software, and Healthcare Research" width="100%" />
 </p>
 
 I’m Ved, a **UC Berkeley Data Science graduate (B.A., Fall 2025)** working across AI/ML engineering, full-stack software, and healthcare research. I’m drawn to hard problems where careful engineering can make a meaningful difference.
