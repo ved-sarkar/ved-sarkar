@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-v3.svg" alt="Ved Sarkar — Machine Learning, AI Agents, and Full-Stack Engineering" width="100%" />
+  <img src="assets/header-animated-v9.gif" alt="Ved Sarkar: Machine Learning, Clinical AI Research, and Full-Stack Engineering" width="100%" />
 </p>
 
 Hi, I’m Ved, a **UC Berkeley Data Science grad (2025)** working across AI/ML, full-stack software, and healthcare research. I by building stuff by rearranging either atoms by smacking them at an anvil or bits by smashing my keyboard constantly. Reshaping iron or resolving syntax to make life easier one commit at a time.
