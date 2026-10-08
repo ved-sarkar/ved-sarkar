@@ -2,15 +2,15 @@
   <img src="assets/header-v3.svg" alt="Ved Sarkar — Machine Learning, AI Agents, and Full-Stack Engineering" width="100%" />
 </p>
 
-I’m Ved, a **UC Berkeley Data Science graduate (B.A., Fall 2025)** working across AI/ML engineering, full-stack software, and healthcare research. I’m drawn to hard, underexplored problems where careful engineering can make a meaningful difference. Many of my project ideas start with friction I run into as a frequent user of AI tools.
+I’m Ved, a **UC Berkeley Data Science graduate (2025)** working across AI/ML engineering, full-stack software, and healthcare research. I’m drawn to hard, underexplored problems where careful engineering can make a meaningful difference. Many of my project ideas start with friction I run into as a frequent user of AI tools.
 
 At **TCG Digital**, I design interoperable AI agents with **A2A, MCP and LangGraph**, spanning travel planning and design-of-experiments workflows. My work covers agent discovery/task contracts, statistical-tool integration, and prototypes that carry experiment results into subsequent runs.
 
-As a **founding engineer at EnvoyX**, I built a multi-tenant fintech platform with React/Next.js, NestJS and PostgreSQL, plus a Document AI/OpenAI extraction pipeline for document processing.
+As a **founding engineer at EnvoyX**, I built the foundations of a multi-tenant fintech platform, connecting document intake and extraction with structured financial records, claims dashboards, and auditable workflows. My work spanned the product’s interfaces, backend services, authentication, and data models.
 
 At **NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
 
-Across work and personal projects, I use **React and Next.js, Node.js and NestJS, Python, and SQL**.
+I work across the full path from an idea to a working system: designing data flows, testing ML models, coordinating agents, and building the interfaces and backend services that bring them together.
 
 [Projects](#projects) · [Selected Research](#selected-research) · [Beyond Tech](#beyond-tech) · [Google Scholar](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en)
 
