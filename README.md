@@ -8,7 +8,7 @@ My ideas often start with the friction I encounter as a heavy user of AI tools a
 
 I work across the full path from an idea to a working system: designing data flows, testing ML models, coordinating agents, and building the interfaces and backend services that bring them together.
 
-[Projects](#projects) · [Selected Research](#selected-research)  · [Google Scholar](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en) · [Beyond Tech](#beyond-tech)
+[Projects](#projects) · [Research](#research)  · [Google Scholar](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en) · [Beyond Tech](#beyond-tech)
 
 ## Projects
 
@@ -36,7 +36,9 @@ Meeting Loop is a personal prototype; live-call endurance.
 - [**Stethalyser**](https://github.com/ved-sarkar/Stethalyser): Arduino and Python experiments in audio acquisition, waveform visualization, filtering, and recording. An exploratory hardware/audio prototype, with sender and receiver protocols still needing integration.
 - [**Faker Text Lab**](https://github.com/ved-sarkar/Faker-Text-Lab): Python experiments with tagged-text substitution, generated names and phone numbers, spreadsheet processing, and regex/local-model redaction. Includes a fictional input example; the current experiments do not establish reliable anonymization.
 
-## Selected Research
+## Research
+
+### Selected Publications
 
 I’ve coauthored work on medical imaging, clinical text, and diagnostic prediction models in neurosurgical care.
 
@@ -48,6 +50,15 @@ I’ve coauthored work on medical imaging, clinical text, and diagnostic predict
   *Frontiers in Surgery · 2023*
 - [Predicting neurosurgical referral outcomes in patients with chronic subdural hematomas using machine learning algorithms – A multi-center feasibility study](https://pubmed.ncbi.nlm.nih.gov/36751456/)  
   *Surgical Neurology International · 2023*
+
+### Awards
+
+- **Northern Care Alliance Doctors Fund Recipient** - September 2022
+- **Medipex NHS Innovation Award Finalist** - October 2022
+- **HSJ Patient Safety Awards Winner** - October 2022
+- **Forward Healthcare Awards Winner** - October 2022
+
+### Google Scholar
 
 [**All papers on Google Scholar →**](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en)
 
