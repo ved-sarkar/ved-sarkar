@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="assets/header-v2.svg" alt="Ved Sarkar — AI Systems, Useful Software, and Healthcare Research" width="100%" />
+  <img src="assets/header-v3.svg" alt="Ved Sarkar — Machine Learning, AI Agents, and Full-Stack Engineering" width="100%" />
 </p>
 
-I’m Ved, a **UC Berkeley Data Science graduate (B.A., Fall 2025)** working across AI/ML engineering, full-stack software, and healthcare research. I’m drawn to hard problems where careful engineering can make a meaningful difference.
+I’m Ved, a **UC Berkeley Data Science graduate (B.A., Fall 2025)** working across AI/ML engineering, full-stack software, and healthcare research. I’m drawn to hard, underexplored problems where careful engineering can make a meaningful difference. Many of my project ideas start with friction I run into as a frequent user of AI tools.
 
-At **TCG Digital**, I build AI agents with **MCP and LangGraph**, connecting models to tools and organizing multi-step workflows. My interests sit in the details that make these systems useful: orchestration, clear tool contracts, context, and human review. I’ve also built full-stack software at **EnvoyX** and worked on **NHS research** alongside my studies.
+At **TCG Digital**, I build AI agents with **MCP and LangGraph**, connecting models to tools and organizing multi-step workflows.
 
-Across work and personal projects, I use **React and Next.js, Node.js and NestJS, Python, and SQL**. My research spans medical-image analysis, clinical NLP, and prediction in neurosurgical care.
+Previously, I was a **founding engineer at EnvoyX**, working across full-stack product development.
+
+My **NHS research** began alongside my studies and continues with collaborators at **Salford Royal and the Northern Care Alliance**. I work on machine learning for medical-image analysis, clinical NLP, and neurosurgical decision-support research, with selected coauthored papers below.
+
+Across work and personal projects, I use **React and Next.js, Node.js and NestJS, Python, and SQL**.
 
 [Projects](#projects) · [Selected Research](#selected-research) · [Beyond Tech](#beyond-tech) · [Google Scholar](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en)
 
@@ -28,9 +32,13 @@ Meeting Loop is a personal prototype; live-call endurance and fresh-machine setu
 
 ### More Projects
 
-- [**Auto-Podcast**](https://github.com/ved-sarkar/auto-podcast): a React workspace for reviewing source-aligned transcript cuts, with deletion-only validation and an offline demo.
-- [**Storage Tracker**](https://github.com/ved-sarkar/storage-tracker): a SwiftUI macOS inventory app with item validation and atomic local JSON storage.
-- [**Stethalyser**](https://github.com/ved-sarkar/stethalyser): exploratory Arduino and Python experiments in audio acquisition, waveform visualization, filtering, and recording.
+- [**Auto-Podcast**](https://github.com/ved-sarkar/Auto-Podcast): a React workspace for reviewing interview-transcript edits. Shows the source, proposed cut, and removed passages, with deletion-only validation and a fictional offline demo. Exports edited text.
+- [**Storage Tracker**](https://github.com/ved-sarkar/Storage-Tracker): a SwiftUI macOS app for tracking stored belongings, locations, estimated value, and last use. Includes item editing, validation, and atomic local JSON persistence.
+- [**MLTool**](https://github.com/ved-sarkar/MLTool): a Tkinter research prototype that guides Excel data through preprocessing, feature selection, classifier comparison, and local export. Built around scikit-learn and XGBoost, with cross-validation scores and confusion-matrix views.
+- [**DECHOR**](https://github.com/ved-sarkar/DECHOR): a Shiny for Python interface around a saved decision-tree model for chronic subdural haematoma referral-outcome research. Explores form inputs, preprocessing, and prediction displays; it is not a validated clinical tool.
+- [**Stethalyser**](https://github.com/ved-sarkar/Stethalyser): Arduino and Python experiments in audio acquisition, waveform visualization, filtering, and recording. An exploratory hardware/audio prototype, with sender and receiver protocols still needing integration.
+- [**Faker Text Lab**](https://github.com/ved-sarkar/Faker-Text-Lab): Python experiments with tagged-text substitution, generated names and phone numbers, spreadsheet processing, and regex/local-model redaction. Includes a fictional input example; the current experiments do not establish reliable anonymization.
+- [**TrackBite**](https://github.com/ved-sarkar/TrackBite): a documented concept for combining food-weight input, ingredient photos, and a reviewed meal log. Explores the proposed interaction and data boundaries; camera recognition, nutrition estimation, and logging are not implemented.
 
 ## Selected Research
 
