@@ -2,15 +2,9 @@
   <img src="assets/header-animated-v9.gif" alt="Ved Sarkar: Machine Learning, Clinical AI Research, and Full-Stack Engineering" width="100%" />
 </p>
 
-Hi, I’m Ved, a **UC Berkeley Data Science grad (2025)** working across AI/ML, full-stack software, and healthcare research. I like building stuff by rearranging either atoms by smacking them at an anvil or bits by smashing my keyboard constantly. Reshaping iron or resolving syntax to make life easier one commit at a time.
+I’m Ved, a **UC Berkeley Data Science grad (2025)** working across AI/ML, full-stack software, and healthcare research. I like building stuff by rearranging either atoms by smacking them at an anvil or bits by smashing my keyboard constantly. Reshaping iron or resolving syntax to make life easier one commit at a time.
 
 My ideas often start with the friction I encounter as a heavy user of AI tools and emerging technologies. I’m drawn to hard, unexplored problems where out of-the-box engineering can make a meaningful difference. That curiosity extends beyond technology, a bit of everywhere has shaped me. I grew up across four continents, multiple countries and cultures, and I’m still happiest exploring somewhere new.
-
-At **TCG Digital**, I design interoperable AI agents with **A2A, MCP and LangGraph**, spanning travel planning and design-of-experiments workflows. My work covers agent discovery/task contracts, statistical-tool integration, and prototypes that carry experiment results into subsequent runs.
-
-As an **ML researcher at NHS NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
-
-As a **founding engineer at EnvoyX**, I built the foundations of a multi-tenant fintech platform, connecting document intake and extraction with structured financial records, claims dashboards, and auditable workflows. My work spanned the product’s interfaces, backend services, authentication, and data models.
 
 I work across the full path from an idea to a working system: designing data flows, testing ML models, coordinating agents, and building the interfaces and backend services that bring them together.
 
@@ -57,6 +51,14 @@ I’ve coauthored work on medical imaging, clinical text, and diagnostic predict
 
 [**All papers on Google Scholar →**](https://scholar.google.com/citations?user=I3JwF4YAAAAJ&hl=en)
 
+## Within Tech
+
+At **TCG Digital**, I designed interoperable AI agents with **A2A, MCP and LangGraph**, spanning agents for coordination for internal tools and consumer features for **United Airlines** to design-of-experiments workflows for multiple research labs across different fields as my clients. My work covers agent discovery/task contracts, statistical-tool integration, and prototypes of continualish learning that carry experiment results into subsequent runs.
+
+As an **ML researcher at NHS NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
+
+As a **founding engineer at EnvoyX**, I built the foundations of a multi-tenant fintech platform, connecting document intake and extraction with structured financial records, claims dashboards, and auditable workflows. My work spanned the product’s interfaces, backend services, authentication, and data models.
+
 ## Beyond Tech
 
-Outside tech, I was in a band in a different life once and still enjoy jamming with a guitar, playing squash, skiing and blacksmithing. I’m a big Manchester United, Naija Super Eagles and Ferrari F1 fan, with a passion for flying, sailing and RVing. Growing up across countries and cultures has made me curious about people and places. I love meeting new people, trading ideas and perspectives, and picking up new hobbies and skills along the way. Reach out, I am always down for new chats, new friends and definitely new adventures!!
+I was in a band in a different life once and still enjoy jamming with a guitar, playing squash, skiing and blacksmithing. I’m a big Manchester United, Naija Super Eagles and Ferrari F1 fan, starting to learn flying, sailing and RVing just to explore wherever I can, however I can. Growing up across countries and cultures has made me curious about people and places. I love meeting new people, trading ideas and perspectives, and picking up new hobbies and skills along the way. Reach out, I am always down for new chats, new friends and definitely new adventures!!
