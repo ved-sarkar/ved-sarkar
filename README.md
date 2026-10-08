@@ -2,7 +2,7 @@
   <img src="assets/header-v3.svg" alt="Ved Sarkar — Machine Learning, AI Agents, and Full-Stack Engineering" width="100%" />
 </p>
 
-I’m Ved, a **UC Berkeley Data Science graduate (2025)** working across AI/ML engineering, full-stack software, and healthcare research. Many of my project ideas start with friction I encounter as a heavy user of AI tools and emerging technology. I’m drawn to hard, unexplored problems where careful engineering can make a meaningful difference. That curiosity extends beyond technology: a bit of everywhere has shaped me. I grew up across countries and cultures, and I’m still happiest exploring somewhere new.
+I’m Ved, a **UC Berkeley Data Science grad (2025)** working across AI/ML engineering, full-stack software and healthcare research. My ideas often start with friction I encounter using emerging technologies. I’m drawn to hard, unexplored problems where careful engineering can make a meaningful difference. Raised across four continents, multiple countries and cultures, I’m still happiest exploring somewhere new.
 
 At **TCG Digital**, I design interoperable AI agents with **A2A, MCP and LangGraph**, spanning travel planning and design-of-experiments workflows. My work covers agent discovery/task contracts, statistical-tool integration, and prototypes that carry experiment results into subsequent runs.
 
