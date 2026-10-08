@@ -2,7 +2,7 @@
   <img src="assets/header-animated-v9.gif" alt="Ved Sarkar: Machine Learning, Clinical AI Research, and Full-Stack Engineering" width="100%" />
 </p>
 
-Hi, I’m Ved, a **UC Berkeley Data Science grad (2025)** working across AI/ML, full-stack software, and healthcare research. I by building stuff by rearranging either atoms by smacking them at an anvil or bits by smashing my keyboard constantly. Reshaping iron or resolving syntax to make life easier one commit at a time.
+Hi, I’m Ved, a **UC Berkeley Data Science grad (2025)** working across AI/ML, full-stack software, and healthcare research. I like building stuff by rearranging either atoms by smacking them at an anvil or bits by smashing my keyboard constantly. Reshaping iron or resolving syntax to make life easier one commit at a time.
 
 My ideas often start with the friction I encounter as a heavy user of AI tools and emerging technologies. I’m drawn to hard, unexplored problems where out of-the-box engineering can make a meaningful difference. That curiosity extends beyond technology, a bit of everywhere has shaped me. I grew up across four continents, multiple countries and cultures, and I’m still happiest exploring somewhere new.
 
