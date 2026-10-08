@@ -8,7 +8,7 @@ At **TCG Digital**, I design interoperable AI agents with **A2A, MCP and LangGra
 
 As a **founding engineer at EnvoyX**, I built a multi-tenant fintech platform with React/Next.js, NestJS and PostgreSQL, plus a Document AI/OpenAI extraction pipeline for document processing.
 
-At **NCA**, I work on clinical ML for imaging and NLP, including external-validation research on **NYU Langone’s NYUTron** and **OpenAI-supported vision-model evaluation** for cauda equina compression. Our wider group’s collaborations include Ehlers-Danlos questionnaire research with **Mount Sinai**.
+At **NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
 
 Across work and personal projects, I use **React and Next.js, Node.js and NestJS, Python, and SQL**.
 
