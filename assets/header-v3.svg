@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ved Sarkar</title>
+  <desc id="desc">Machine Learning, AI Agents, and Full-Stack Engineering. Warm ivory and navy typography with a gold flight path and a small airplane.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#173B50" opacity=".07"/>
+    </pattern>
+    <clipPath id="round"><rect x="1" y="1" width="998" height="318" rx="18"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="998" height="318" rx="18" fill="#F7F3E9" stroke="#E4DFD3" stroke-width="2"/>
+  <g clip-path="url(#round)">
+    <path d="M681 0H1000V320H710C683 255 640 220 657 159C674 94 709 45 681 0Z" fill="#EEF0E8"/>
+    <rect x="649" y="0" width="351" height="320" fill="url(#dots)"/>
+    <path d="M657 264C709 254 746 223 746 187C746 151 714 134 699 161C679 196 721 239 786 231C848 223 870 169 869 128" fill="none" stroke="#C88E28" stroke-width="3" stroke-linecap="round"/>
+    <path d="M861 112L883 76" fill="none" stroke="#C88E28" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 10"/>
+    <g transform="translate(897 70) rotate(35) scale(.73)">
+      <path d="M0-31C4-31 5-25 5-15L6-7L35 7V12L7 6L8 23L17 30V34L0 28L-17 34V30L-8 23L-7 6L-35 12V7L-6-7L-5-15C-5-25-4-31 0-31Z" fill="#173B50"/>
+    </g>
+    <circle cx="657" cy="264" r="4" fill="#C88E28"/>
+    <path d="M811 270H850M831 250V290" stroke="#173B50" stroke-width="1" opacity=".18"/>
+    <circle cx="831" cy="270" r="15" fill="none" stroke="#173B50" stroke-width="1" opacity=".18"/>
+  </g>
+  <text x="57" y="150" fill="#173B50" font-family="Georgia, 'Noto Serif', serif" font-size="85" letter-spacing="-3">Ved Sarkar</text>
+  <path d="M62 181H112" stroke="#C88E28" stroke-width="3" stroke-linecap="round"/>
+  <text x="61" y="229" fill="#284C60" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing=".1">Machine Learning <tspan fill="#C88E28">·</tspan> AI Agents</text>
+  <text x="61" y="269" fill="#284C60" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing=".1">Full-Stack Engineering</text>
+</svg>
