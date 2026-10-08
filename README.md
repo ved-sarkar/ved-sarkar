@@ -2,13 +2,15 @@
   <img src="assets/header-v3.svg" alt="Ved Sarkar — Machine Learning, AI Agents, and Full-Stack Engineering" width="100%" />
 </p>
 
-I’m Ved, a **UC Berkeley Data Science grad (2025)** working across AI/ML engineering, full-stack software, and healthcare research. My ideas often start with the friction I encounter as a heavy user of AI tools and emerging technologies. I’m drawn to hard, unexplored problems where careful engineering can make a meaningful difference. That curiosity extends beyond technology: a bit of everywhere has shaped me. I grew up across four continents, multiple countries and cultures, and I’m still happiest exploring somewhere new.
+Hi I’m Ved, a **UC Berkeley Data Science grad (2025)** working across AI/ML engineering, full-stack software, and healthcare research. I like building stuff by rearranging atoms by smacking them at an anvil or bits by smashing my keyboard constantly. As long as that solve actual problems, have actual impact, and can make life easier one commit at a time. Reshaping iron, resolving syntax.
+
+My ideas often start with the friction I encounter as a heavy user of AI tools and emerging technologies. I’m drawn to hard, unexplored problems where careful engineering can make a meaningful difference. That curiosity extends beyond technology: a bit of everywhere has shaped me. I grew up across four continents, multiple countries and cultures, and I’m still happiest exploring somewhere new.
 
 At **TCG Digital**, I design interoperable AI agents with **A2A, MCP and LangGraph**, spanning travel planning and design-of-experiments workflows. My work covers agent discovery/task contracts, statistical-tool integration, and prototypes that carry experiment results into subsequent runs.
 
 As a **founding engineer at EnvoyX**, I built the foundations of a multi-tenant fintech platform, connecting document intake and extraction with structured financial records, claims dashboards, and auditable workflows. My work spanned the product’s interfaces, backend services, authentication, and data models.
 
-As an **NHS researcher at NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
+As an **ML researcher at NHS NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
 
 I work across the full path from an idea to a working system: designing data flows, testing ML models, coordinating agents, and building the interfaces and backend services that bring them together.
 
