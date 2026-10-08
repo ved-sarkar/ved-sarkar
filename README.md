@@ -8,9 +8,9 @@ My ideas often start with the friction I encounter as a heavy user of AI tools a
 
 At **TCG Digital**, I design interoperable AI agents with **A2A, MCP and LangGraph**, spanning travel planning and design-of-experiments workflows. My work covers agent discovery/task contracts, statistical-tool integration, and prototypes that carry experiment results into subsequent runs.
 
-As a **founding engineer at EnvoyX**, I built the foundations of a multi-tenant fintech platform, connecting document intake and extraction with structured financial records, claims dashboards, and auditable workflows. My work spanned the product’s interfaces, backend services, authentication, and data models.
-
 As an **ML researcher at NHS NCA**, I’ve co-authored and led clinical AI research with collaborators at **OpenAI, NYU Langone Health and Mount Sinai**. I develop and externally validate machine-learning models for neurosurgical triage, MRI analysis and operative-note NLP, working with clinicians on interpretable models and peer-reviewed publications.
+
+As a **founding engineer at EnvoyX**, I built the foundations of a multi-tenant fintech platform, connecting document intake and extraction with structured financial records, claims dashboards, and auditable workflows. My work spanned the product’s interfaces, backend services, authentication, and data models.
 
 I work across the full path from an idea to a working system: designing data flows, testing ML models, coordinating agents, and building the interfaces and backend services that bring them together.
 
